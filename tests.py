@@ -31,4 +31,3 @@ class TestExtractors(unittest.TestCase):
 # Test the extract_credit_cards function
 if __name__ == '__main__':
     unittest.main()
-# Run the tests if the script is run directly  from the command line 
